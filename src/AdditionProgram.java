@@ -1,4 +1,4 @@
-public class SecondProgram {
+public class AdditionProgram {
     public static void main(String[] args) {
         //performing addition
         int a=10;
